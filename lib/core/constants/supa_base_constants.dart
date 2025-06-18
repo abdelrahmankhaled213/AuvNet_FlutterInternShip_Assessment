@@ -1,0 +1,2 @@
+const supabaseUrl = 'https://cyqubuvuehdzpurnvaut.supabase.co';
+const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN5cXVidXZ1ZWhkenB1cm52YXV0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAwMzMyMjcsImV4cCI6MjA2NTYwOTIyN30.hi9-wa1vu3JLmtdCRbs3EENg5osH8o28PB3_KT0Psuo";
