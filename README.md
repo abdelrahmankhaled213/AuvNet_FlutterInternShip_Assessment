@@ -17,4 +17,7 @@ Cached user profile data locally using Hive for faster access and offline suppor
 
 ## 📍 Shared Preferences (Onboarding)
 Stored onboarding completion status using Shared Preferences, so it's shown only once to each user.
+<br>
+<br>
+<br>
    ![image](https://github.com/user-attachments/assets/a8abdfac-bc57-4c66-b009-79d476953d40)
