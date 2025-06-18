@@ -1,16 +1,20 @@
 # flutter_task_internship
 
-A new Flutter project.
+## This Flutter application follows a customized Clean Architecture approach — implementing only the parts necessary for the project's scope, to maintain simplicity without sacrificing code organization and scalability.
 
-## Getting Started
+✅ Key Features & Integrations
+## 🔧 Clean Architecture (as needed)
+Applied selected principles of Clean Architecture — such as separation between presentation, domain, and data layers — to improve code maintainability and clarity, without over-engineering the structure.
 
-This project is a starting point for a Flutter application.
+## 🔐 Authentication with Supabase
+Integrated user authentication (sign up, login, logout) using Supabase Auth.
 
-A few resources to get you started if this is your first Flutter project:
+##🗄️ Supabase (Backend as a Service)
+Used Supabase for real-time database operations and user profile management.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Hive (Local Profile Caching)
+Cached user profile data locally using Hive for faster access and offline support.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📍 Shared Preferences (Onboarding)
+Stored onboarding completion status using Shared Preferences, so it's shown only once to each user.
+   ![image](https://github.com/user-attachments/assets/a8abdfac-bc57-4c66-b009-79d476953d40)
